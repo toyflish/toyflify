@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Default Starter',
+    title: 'Toyflish on netlify',
   },
   plugins: ['gatsby-plugin-react-helmet'],
 }
